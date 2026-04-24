@@ -1,8 +1,8 @@
-CAPATUR - Sistema de Gestión de Clientes
+#CAPATUR - Sistema de Gestión de Clientes
 
 Aplicación web desarrollada para CAPATUR (Cámara de Prestadores de Servicios de Alojamientos Turísticos) para la gestión de clientes y la digitalización de procesos administrativos.
 
-Tecnologías
+##Tecnologías
 C#
 ASP.NET Core MVC
 Entity Framework Core
