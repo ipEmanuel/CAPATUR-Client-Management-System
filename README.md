@@ -47,6 +47,6 @@ Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión m
 ![images/CrearCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/CrearCliente.png)
 
 ### Edit Client
-![images/EditarCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/78e3a5aac951ab5924c01f741447c5495ebecfa4/Images/EditarCliente.png))
+![images/EditarCliente.png](https://github.com/ipEmanuel/client-management-aspnet/blob/78e3a5aac951ab5924c01f741447c5495ebecfa4/Images/EditarCliente.png)
 
 
