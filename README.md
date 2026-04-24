@@ -30,7 +30,7 @@ Aplicación desarrollada para un caso real, permitiendo reemplazar la gestión m
 
 ## Screenshots
 ### Home
-![Home]([images/Home.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Home.png))
+![images/Home.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Home.png))
 
 ### Client List
 ![Listado]([images/Listado.png](https://github.com/ipEmanuel/client-management-aspnet/blob/5f1d7259f0653235bbf03476254fb7451e6f9119/Images/Listado.png))
